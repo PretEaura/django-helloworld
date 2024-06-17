@@ -1,4 +1,4 @@
 # requirements.txt file
-PYTHON_VERSION==3.7.0
+PYTHON_VERSION==3.11.9
 Django==4.1.2
 gunicorn==19.7.1
